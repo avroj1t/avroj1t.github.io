@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Avrojit"
-  pronouns         : # example:"she/her"  
+  #avatar           : "profile.png"
+  name             : "Avrojit Joydhar"
+  pronouns         : "he/him"  
   bio              : "Undergrad Second Year"
   location         : "Thiruvananthapuram,Kerala"
   employer         : "IISER,Thiruvananthapuram"

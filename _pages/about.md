@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Second Year Integrated Masters Student of Mathematics from Indian Institute of Science Education and Research,Thiruvananthapuram. I am eagerly interested in Computational/Applied Mathematics and Machine Learning.
+I am a Third Year Integrated Masters Student of Mathematics from Indian Institute of Science Education and Research,Thiruvananthapuram. I am eagerly interested in Computational Mathematics and Machine Learning and their application in different fields.

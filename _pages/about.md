@@ -17,3 +17,8 @@ I am a Third Year Integrated Masters Student of Mathematics from Indian Institut
 - Computational Oncology  
 
 ![Simulations](/images/CC3D.png)
+*Modeling stress-induced IL6 release*
+
+
+![graphs](/images/graphA.png)
+*SCC EMERGENCE GRAPHS*
